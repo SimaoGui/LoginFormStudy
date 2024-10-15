@@ -17,7 +17,7 @@ body {
     background-position: center;
 }
 
-.wrapper {
+#wrapper {
     border-radius: 10px;
     padding: 30px 40px;
     width: 720px;
@@ -28,13 +28,13 @@ body {
     color: #fff;
 }
 
-.wrapper h1 {
+#wrapper h1 {
     font-size: 36px;
     text-align: center;
     text-transform: uppercase;
 }
 
-.wrapper .inputForm {
+#wrapper .inputForm {
     width: 100%;
     height: 50px;
     margin: 30px 0;
@@ -63,28 +63,28 @@ body {
     font-size: 20px;
 }
 
-.wrapper .Lembrar-Esqueceu {
+#wrapper .Lembrar-Esqueceu {
     display: flex;
     justify-content: space-between;
     font-size: 14.5px;
     margin: -15px 0 15px;
 }
 
-.wrapper .Lembrar-Esqueceu label input {
+#wrapper .Lembrar-Esqueceu label input {
     accent-color: #fff;
     margin-right: 3px;
 }
 
-.wrapper .Lembrar-Esqueceu a {
+#wrapper .Lembrar-Esqueceu a {
     color: #fff;
     text-decoration: none;
 }
 
-.wrapper .Lembrar-Esqueceu a:hover {
+#wrapper .Lembrar-Esqueceu a:hover {
     text-decoration: underline;
 }
 
-.wrapper .btn {
+#wrapper .btn {
     width:  100%;
     height: 45px;
     background: #fff;
@@ -99,13 +99,13 @@ body {
     transition: 0.3s ease-in-out;
 }
 
-.wrapper .btn:hover {
+#wrapper .btn:hover {
     background: #818181;
     color: #fff;
     transform: translateY(-5px);
 }
 
-.wrapper .registrar {
+#wrapper .registrar {
     font-size: 14.5px;
     text-align: center;
     margin: 20px 0 15px;
